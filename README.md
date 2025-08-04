@@ -1,9 +1,9 @@
 - Hello my name is Mason Karr
-- I am a graphic artist with experience in Adobe, print/digital design, and website mockup
-- Currently I am trying to become more versatile with Figma and front-end languages
-- I have also been striving to get a better understanding of back-end languages & databases
+- I have experience in Javascript, Typescript, React, Vite, Adobe, print/digital design, and website mockup
+- Currently I am trying to become more versatile with front-end languages
+- I have also been striving to get a better understanding of back-end languages & databases/data security
 - My interests include graphic design, application development, and data mining
-- I’ve been learning Javascript, Vite, Typescript, React, Python, Docker, MongoDB, Django, MySQL, and AWS 
+- I’ve been learning more about network security; along with Python, Docker, MySQL, and AWS 
 
 
 
